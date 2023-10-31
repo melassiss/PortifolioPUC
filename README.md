@@ -16,11 +16,19 @@ Projetos Ciência de Dados e IA
 - [Análise e Predição da Satisfação de Clientes do Airbnb](https://github.com/maafinotti/satisfacao_clientes_airbnb)
 
   
+<br />
+<br />
+<br />
 
 <img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 
 
+<br />
+<br />
+<br />
 
 ### :pencil: Autoras dos projetos
+
+<br />
 
 [https://github.com/melassiss]
 [https://github.com/maafinotti]
