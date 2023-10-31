@@ -1,4 +1,4 @@
-# PortifolioPUC
+# Portifolio PUC
 Projetos Ciência de Dados e IA
 
 <p align="center">
