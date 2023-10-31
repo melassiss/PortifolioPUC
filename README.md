@@ -15,11 +15,12 @@ Projetos Ciência de Dados e IA
 - [O Acesso à Internet no Mundo](https://github.com/maafinotti/o_acesso_a_internet_no_mundo/blob/main/README.md)
 - [Análise e Predição da Satisfação de Clientes do Airbnb](https://github.com/maafinotti/satisfacao_clientes_airbnb)
 
+  
+
 <img src="https://user-images.githubusercontent.com/80490047/128768151-14c1a7cd-deda-4020-86f4-46b07fdac266.jpg" align="left" width="1000" height="5"/> 
 
-### Autoras dos projetos
+
+### :pencil: Autoras dos projetos
 
 [https://github.com/melassiss]
-
 [https://github.com/maafinotti]
-
