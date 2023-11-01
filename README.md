@@ -8,7 +8,7 @@ Projetos Ciência de Dados e IA
 <h1 align="center">PUC-SP - Projetos</h1>
 
 <h3 align="center">Ciência de Dados e Inteligência Artificial</h3>
-<h4 align="center">2022 - 2025</h4>
+<h4 align="center">2021 - 2025</h4>
  
 ### :open_file_folder: Projetos
 - [Impacto da Indústria da Moda no Meio Ambiente](https://github.com/maafinotti/impacto_da_industria_da_moda_no_meio_ambiente)
@@ -23,6 +23,6 @@ Projetos Ciência de Dados e IA
 
 ### :pencil: Autoras dos projetos
 
-[https://github.com/melassiss]
+- [https://github.com/melassiss]
 
-[https://github.com/maafinotti]
+- [https://github.com/maafinotti]
